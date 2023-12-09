@@ -3,7 +3,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 16px;
     row-gap: 40px;
-    justify-content: center;
+    margiin: auto;
+    width: 50%;
 }
 .grid-pic {
    width: 100%;
